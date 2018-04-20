@@ -1,0 +1,6 @@
+﻿  Saod_№2.cpp
+c:\users\user\source\repos\saod_№2\saod_№2\saod_№2.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\user\source\repos\saod_№2\saod_№2\saod_№2.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\user\source\repos\saod_№2\saod_№2\saod_№2.cpp(2): note: использование предварительно скомпилированного заголовка
+c:\users\user\source\repos\saod_№2\saod_№2\saod_№2.cpp(55): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Saod_№2.vcxproj -> C:\Users\User\source\repos\Saod_№2\Debug\Saod_№2.exe
